@@ -12,7 +12,7 @@
            review="gerrit.omnirom.org"
            fetch="https://github.com/omnirom" />
 
-  <default revision="refs/tags/android-6.0.1_r10"
+  <default revision="refs/tags/android-6.0.1_r13"
            remote="aosp"
            sync-c="true"
            sync-j="4" />
@@ -57,6 +57,7 @@
   <project path="external/libdrm" name="platform/external/libdrm" groups="pdk" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" />
   <project path="external/libmtp" name="platform/external/libmtp" groups="pdk-cw-fs,pdk-fs" />
+  <project path="external/libnl" name="platform/external/libnl" groups="pdk" />
   <project path="external/libpcap" name="platform/external/libpcap" groups="pdk,pdk-cw-fs,pdk-fs" />
   <project path="external/libpng" name="android_external_libpng" remote="omnirom" revision="android-6.0" groups="pdk" />
   <project path="external/libselinux" name="platform/external/libselinux" groups="pdk" />
