@@ -1,6 +1,6 @@
 #Setting up a minimal tree for building TWRP
 ##Android 6.0 branch
-This repo is ~2.7GB
+
 ###To initialize the main repository:
 
 ````
